@@ -1,2 +1,2 @@
 Pattern MVC
-Pattern Singleton-одна база
+Pattern Singleton-odna BD!!!!
